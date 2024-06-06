@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""understanding annotation"""
+"""python enviroment"""
 
 
 a: int = 1
