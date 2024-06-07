@@ -2,7 +2,10 @@
 """sum of list"""
 
 
-def sum_list(input_list: list[float]) -> float:
+from typing import List
+
+
+def sum_list(input_list: List[float]) -> float:
     """
     args: input_list
     return: sum of list
